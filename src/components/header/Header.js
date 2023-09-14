@@ -11,18 +11,18 @@ const nav_links = [
     path:"/home"
   },
   {
-    display:"Now showing ",
+    display:"Now Showing ",
     path:"/nowShowing "
   },
   {
-    display:"Comming soon",
+    display:"Comming Soon",
     path:"/commingSoon"
   },
   {
     display:"Private Booking",
     path:"/privateBooking"
   }, {
-    display:"About us",
+    display:"About Us",
     path:"/aboutUs"
   },
 ]

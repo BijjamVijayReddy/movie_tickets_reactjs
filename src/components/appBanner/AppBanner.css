@@ -1,0 +1,31 @@
+/* AppBanner.css */
+
+.slider-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    
+  }
+  
+  .slider-wrapper {
+    max-width: 97%;
+    margin: 0 auto;
+  }
+  
+  .slider-slide {
+    text-align: center;
+  }
+  
+  .image-container {
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px -5px #FFFF;
+    overflow: hidden; /* Clip image corners */
+  }
+  
+  .image {
+    width: 100%; /* All images have the same width */
+    height: auto; /* Maintain aspect ratio */
+    max-height: 300px; /* Adjust this for the desired max height */
+  }
+  

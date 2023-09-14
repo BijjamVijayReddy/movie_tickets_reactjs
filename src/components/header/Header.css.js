@@ -2,11 +2,11 @@
 import styled from "styled-components";
 
 export const HeaderComponnet = styled.div`
-padding: 17px;
+padding: 25px;
 max-width: 100%;
 background: #fff;
 z-index: 99999;
-box-shadow: 5px 5px 15px -5px #fde4e4;
+// box-shadow: 5px 5px 15px -5px #fde4e4;
 font-size:14px;
 display: flex;
 justify-content: space-evenly;
