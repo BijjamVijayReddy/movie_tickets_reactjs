@@ -28,7 +28,7 @@ function AppBanner() {
       .catch((error) => {
         console.error("Error fetching data:", error);
       });
-  }, []);
+  }, [isLoading]);
 
   return (
     <div>

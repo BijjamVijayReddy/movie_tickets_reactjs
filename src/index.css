@@ -43,7 +43,7 @@ h2 {
   color: #212245;
 }
 
-img{
+img,button{
   cursor: pointer;
 }
 
